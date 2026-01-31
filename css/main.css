@@ -1,0 +1,21 @@
+body{
+    background-color: #000000;
+}
+div.rep{
+    /*position: relative;
+    left: 110%;*/
+    float: left;
+    font-family: 'Courier New', Courier, monospace;
+    color: #880808;
+}
+#eyes{
+    /*position: fixed;*/
+    float: left;
+    left: 0%;
+    width: 40%;
+    height: auto;
+}
+audio{
+    position: relative;
+    bottom: 0%;
+}

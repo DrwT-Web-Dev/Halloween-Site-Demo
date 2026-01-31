@@ -1,0 +1,11 @@
+*{
+   color: #000000;
+}
+img{
+    width: 10%;
+    height: auto;
+}
+#safe{
+    position: relative;
+    left: 300px
+}
